@@ -1,2 +1,2 @@
 # Open Source Politics
-![Logo](./img/osp-logo.svg)
+![Logo](https://raw.githubusercontent.com/OpenSourcePolitics/.github/main/profile/img/osp-logo.svg)
