@@ -1,2 +1,2 @@
 # Open Source Politics
-![Logo](./assets/osp-logo.svg)
+![Logo](./img/osp-logo.svg)
