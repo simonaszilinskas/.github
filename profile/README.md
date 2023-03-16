@@ -1,2 +1,2 @@
-# .github
-Description of the Open Source Politics organization
+# Open Source Politics
+![Logo](./assets/osp-logo.svg)
