@@ -8,5 +8,5 @@
 
 ### Docker and Kubernetes related actions
 #### [Build and push images action](https://github.com/OpenSourcePolitics/build-and-push-images-action)
-#### [Build and test images action](https://github.com/OpenSourcePolitics/build-and-push-images-action)
+#### [Build and test images action](https://github.com/OpenSourcePolitics/build-and-test-images-action)
 
