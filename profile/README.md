@@ -3,7 +3,7 @@
 ## We build for democracy
 [Open Source Politics](https://opensourcepolitics.eu) is a 🇫🇷 company that works around democratic softwares like [Decidim](https://decidim.org).
 
-Since 2016, we're working in coordination which cities and organizations to organize participative consultations, moving democracy into a 21th century, where taking opinions of the citizens into account is the norm, as described [in this presentation](https://youtu.be/NXfYNdapq3Q).
+with cities and organizations
 
 Based in Paris, we install, maintain and improve Decidim in order to make it efficient for the broadest number of cities and organizations, in France, Europe and worldwide.
 
