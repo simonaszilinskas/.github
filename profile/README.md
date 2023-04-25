@@ -13,7 +13,7 @@ We work around the software [Decidim](https://decidim.org). Based on the framewo
 Our main product is the [decidim-app](https://github.com/OpenSourcePolitics/decidim-app), a canonical Decidim installation bundled with our most used modules.
 
 ## Contact
-- You'd like to join us? See our opened positions [here](https://opensourcepolitics.eu/en/offres-demploi/)
+- You'd like to join us ? See our opened positions [here](https://opensourcepolitics.eu/en/offres-demploi/)
 - Want to contact us ? Please mail us at contact[at]opensourcepolitics[dot]eu
 
 
