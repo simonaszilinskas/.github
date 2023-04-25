@@ -7,5 +7,5 @@
 Based in Paris, we install, maintain and improve Decidim in order to make it efficient for the broadest number of cities and organizations, in France, Europe and worldwide.
 
 ## You'd like to join us?
-- See our opened positions [here](https://opensourcepolitics.eu/offres-demploi/)
+- See our opened positions [here](https://opensourcepolitics.eu/en/offres-demploi/)
 
