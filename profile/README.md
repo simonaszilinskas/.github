@@ -12,6 +12,9 @@ We work around the software [Decidim](https://decidim.org). Based on the framewo
 
 Our main product is the [decidim-app](https://github.com/OpenSourcePolitics/decidim-app), a canonical Decidim installation bundled with our most used modules.
 
+### Product management
+We aim to grow a community of French organizations using Decidim, and have therefore created a Decidim instance for that. You can check our public product roadmap [here](https://club.decidim.opensourcepolitics.eu/assemblies/feuille-de-route)  
+
 ## Contact
 - You'd like to join us ? See our opened positions [here](https://opensourcepolitics.eu/en/offres-demploi/)
 - Want to contact us ? Please mail us at contact[at]opensourcepolitics[dot]eu
